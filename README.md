@@ -6,6 +6,7 @@ Project Proposal on Sep 16: [proposal](https://github.com/SUcy6/COMP3340_GP/blob
 
 ## Datasets
 Benchmarking Neural Network Robustness to Common Corruptions and Perturbations: [Tiny Imagenet-c](https://github.com/hendrycks/robustness)
+CelebA images: [celeba](https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/celeba.zip)
 
 ## Midterm 
 - Build the baseline models
