@@ -1,4 +1,5 @@
 # COMP3340_GP
+**Connecting low-level image processing and high-level vision for degraded image classification**
 
 ## Proposal
 Project Proposal on Sep 16: [proposal](https://github.com/SUcy6/COMP3340_GP/blob/main/COMP3340_Group%2016_Proposal.pdf)
