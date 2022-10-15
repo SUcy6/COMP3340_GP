@@ -1,6 +1,7 @@
 # COMP3340_GP
 
 ## Proposal
+Project Proposal on Sep 16: [proposal]
 
 ## Midterm 
 - Build the baseline models
