@@ -5,7 +5,7 @@
 Project Proposal on Sep 16: [proposal](https://github.com/SUcy6/COMP3340_GP/blob/main/COMP3340_Group%2016_Proposal.pdf)
 
 ## Datasets
-[Tiny Imagenet-c](https://github.com/hendrycks/robustness)
+Benchmarking Neural Network Robustness to Common Corruptions and Perturbations: [Tiny Imagenet-c](https://github.com/hendrycks/robustness)
 
 ## Midterm 
 - Build the baseline models
