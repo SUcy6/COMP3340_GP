@@ -23,3 +23,9 @@ CelebA:
 [resnet from scratch](https://www.youtube.com/watch?v=DkNIBBBvcPs)
 
 [pytorch pretrained models](https://www.youtube.com/watch?v=qaDe0qQZ5AQ&t=14s)
+
+## Data Prepare 
+** For AlexNet-flower17: **
+data folder: f1 ~ f17 \n
+data_flowers: jpg: image files \n
+flowers.csv: newly build
