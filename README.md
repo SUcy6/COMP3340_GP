@@ -27,8 +27,8 @@ CelebA:
 ## Data Prepare 
 **For AlexNet-flower17:**
 
-data folder: f1 ~ f17 \n
+data folder: f1 ~ f17 
 
-data_flowers: jpg: image files \n
+data_flowers: jpg: image files 
 
 flowers.csv: newly build
