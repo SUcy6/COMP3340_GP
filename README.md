@@ -24,6 +24,8 @@ CelebA:
 
 [pytorch pretrained models](https://www.youtube.com/watch?v=qaDe0qQZ5AQ&t=14s)
 
+[finetuning pytorch pretrained](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+
 ## Data Prepare 
 **For AlexNet-flower17:**
 
