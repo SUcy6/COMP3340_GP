@@ -39,7 +39,7 @@ We output the training loss, validation loss, and test accuracy to csv file. Fro
 
 All the output csv can be found [here](https://github.com/SUcy6/COMP3340_GP/tree/main/output).
 
-![截屏2022-10-27 下午1.08.09.png](media/%E6%88%AA%E5%B1%8F2022-10-27_%E4%B8%8B%E5%8D%881.08.09.png)
+![%E6%88%AA%E5%B1%8F2022-10-27_%E4%B8%8B%E5%8D%881.08.09.png](media/%E6%88%AA%E5%B1%8F2022-10-27_%E4%B8%8B%E5%8D%881.08.09.png)
 
 ## 🏠Model Architecture
 
