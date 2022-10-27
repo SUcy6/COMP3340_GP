@@ -35,7 +35,8 @@ To test baseline CNN on degraded images - [Robustness_on_CIFAR100-C_CIFAR10-C](h
 
 flowers.csv: a helper csv file for distribute the images
 
-**For degraded images**
+
+**For degraded images:**
 
 Tensorflow dataset [cifar10_corrupted](https://www.tensorflow.org/datasets/catalog/cifar10_corrupted)
 
