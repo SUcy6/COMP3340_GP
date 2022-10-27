@@ -16,11 +16,11 @@ Final report:
 
 [17 Category Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/17/): a 17 category flower dataset with 80 images for each class
 
-![flower17.png](README%2083d2b46279f74e17b041618af732df83/flower17.png)
+![flower17.png](media/flower17.png)
 
 [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://github.com/hendrycks/robustness): Tiny ImageNet-C, CIFAR-10-C
 
-![imagenet-c.png](README%2083d2b46279f74e17b041618af732df83/imagenet-c.png)
+![imagenet-c.png](media/imagenet-c.png)
 
 ### Data Prepare
 
