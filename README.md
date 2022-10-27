@@ -8,6 +8,8 @@ Project Proposal on Sep 16: [proposal](https://github.com/SUcy6/COMP3340_GP/blob
 
 Midterm Report on Oct 30:
 
+To test baseline CNN on degraded images - [Robustness_on_CIFAR100-C_CIFAR10-C](https://github.com/shaktiwadekar9/Robustness_on_CIFAR100-C_CIFAR10-C)
+
 Final presentation slides:
 
 Final report:
