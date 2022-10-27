@@ -4,15 +4,15 @@
 
 ### 📋Progress:
 
-Project Proposal on Sep 16: [proposal](https://github.com/SUcy6/COMP3340_GP/blob/main/COMP3340_Group%2016_Proposal.pdf)
+**Project Proposal** on Sep 16: [proposal](https://github.com/SUcy6/COMP3340_GP/blob/main/COMP3340_Group%2016_Proposal.pdf)
 
-Midterm Report on Oct 30:
+**Midterm Report** on Oct 30:
 
 To test baseline CNN on degraded images - [Robustness_on_CIFAR100-C_CIFAR10-C](https://github.com/shaktiwadekar9/Robustness_on_CIFAR100-C_CIFAR10-C)
 
-Final presentation slides:
+**Final presentation slides**:
 
-Final report:
+**Final report**:
 
 ## 📊Datasets
 
