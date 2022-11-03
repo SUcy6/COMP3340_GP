@@ -71,6 +71,7 @@ In the second part of our project, we decide to test the baseline models on degr
 [https://paperswithcode.com/paper/wavecnet-wavelet-integrated-cnns-to-suppress](https://paperswithcode.com/paper/wavecnet-wavelet-integrated-cnns-to-suppress)
 
 :point_right:**Group-wise Inhibition based Feature Regularization for Robust Classification**
+# more state-of-art, but more complex
 
 [https://paperswithcode.com/paper/group-wise-inhibition-based-feature](https://paperswithcode.com/paper/group-wise-inhibition-based-feature)
 
@@ -81,6 +82,7 @@ In the second part of our project, we decide to test the baseline models on degr
 [https://github.com/tahmid0007/Low_Pass_ReLU](https://github.com/tahmid0007/Low_Pass_ReLU)
 
 :point_right:**When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach**
+# this one is easier to explain and understand
 
 [https://arxiv.org/pdf/1706.04284.pdf](https://arxiv.org/pdf/1706.04284.pdf)
 
@@ -94,6 +96,11 @@ In the second part of our project, we decide to test the baseline models on degr
 - Report writting (further explanation)
 
 ## 📝Final Plan
+
+- [ ] Confirm that baseline CNNs fail when using degraded images (e.g. noise, blur)
+- [ ] training a model that combine low level and high level tasks (DeepDenosing or GroupWise)
+- [ ] Test and evaluate models(plot accuracy/loss, test result)
+- [ ] Presentation prepare (Intro, baseline models, limits of baseline, newly proposed model, results analysis)
 
 ## 🤡Tutorials
 
