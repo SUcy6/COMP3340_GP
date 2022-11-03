@@ -70,7 +70,7 @@ In the second part of our project, we decide to test the baseline models on degr
 
 [https://paperswithcode.com/paper/wavecnet-wavelet-integrated-cnns-to-suppress](https://paperswithcode.com/paper/wavecnet-wavelet-integrated-cnns-to-suppress)
 
-**Group-wise Inhibition based Feature Regularization for Robust Classification**
+:point_right:**Group-wise Inhibition based Feature Regularization for Robust Classification**
 
 [https://paperswithcode.com/paper/group-wise-inhibition-based-feature](https://paperswithcode.com/paper/group-wise-inhibition-based-feature)
 
@@ -83,6 +83,8 @@ In the second part of our project, we decide to test the baseline models on degr
 :point_right:**When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach**
 
 [https://arxiv.org/pdf/1706.04284.pdf](https://arxiv.org/pdf/1706.04284.pdf)
+
+[https://github.com/Ding-Liu/DeepDenoising](https://github.com/Ding-Liu/DeepDenoising)
 
 ## 🗓️Midterm Plan
 
