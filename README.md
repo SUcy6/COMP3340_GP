@@ -16,9 +16,9 @@ Results on degraded imageset CIFAR100-C are [here](https://github.com/SUcy6/COMP
 
 1. (before Nov 11) Read papers - Train new models - decide which one to use  
 
-2. (before Nov 18) Two groups: - train and eval baseline CNN on degraded images
-                               
-                               - train newly proposed one and get results
+2. (before Nov 18) Two groups: 
+- train and eval baseline CNN on degraded images
+- train newly proposed one and get results
                                
 3. (before Nov 21) slides - 5 pages (Intro, baseline models, limits of baseline, newly proposed model, results analysis)
 
