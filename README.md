@@ -80,7 +80,7 @@ In the second part of our project, we decide to test the baseline models on degr
 
 [https://github.com/tahmid0007/Low_Pass_ReLU](https://github.com/tahmid0007/Low_Pass_ReLU)
 
-**When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach**
+:point_right:**When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach**
 
 [https://arxiv.org/pdf/1706.04284.pdf](https://arxiv.org/pdf/1706.04284.pdf)
 
