@@ -22,7 +22,7 @@ Results on degraded imageset CIFAR100-C are [here](https://github.com/SUcy6/COMP
                                
 3. (before Nov 21) slides - 5 pages (Intro, baseline models, limits of baseline, newly proposed model, results analysis)
 
-updtae: [DeepDenoising](https://github.com/Ding-Liu/DeepDenoising) have errors
+update: [DeepDenoising](https://github.com/Ding-Liu/DeepDenoising) have errors
 
 **Final report**:
 
