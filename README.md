@@ -22,7 +22,11 @@ Results on degraded imageset CIFAR100-C are [here](https://github.com/SUcy6/COMP
                                
 3. (before Nov 21) slides - 5 pages (Intro, baseline models, limits of baseline, newly proposed model, results analysis)
 
-update: [DeepDenoising](https://github.com/Ding-Liu/DeepDenoising) have errors
+update: 
+
+- [DeepDenoising](https://github.com/Ding-Liu/DeepDenoising) have errors
+- TENET still not working
+- Try rewrite low pass activation layer to python and test [LP-ReLU](https://github.com/tahmid0007/Low_Pass_ReLU), and analyse the influence of activation function on CNNs
 
 **Final report**:
 
@@ -87,7 +91,7 @@ In the second part of our project, we decide to test the baseline models on degr
 
 [https://github.com/LinusWu/TENET_Training](https://github.com/LinusWu/TENET_Training)
 
-****Robust Image Classification Using A Low-Pass Activation Function and DCT Augmentation****
+:point_right:****Robust Image Classification Using A Low-Pass Activation Function and DCT Augmentation****
 
 [https://github.com/tahmid0007/Low_Pass_ReLU](https://github.com/tahmid0007/Low_Pass_ReLU)
 
