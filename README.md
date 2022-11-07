@@ -125,3 +125,5 @@ In the second part of our project, we decide to test the baseline models on degr
 [pytorch pretrained models](https://www.youtube.com/watch?v=qaDe0qQZ5AQ&t=14s)
 
 [finetuning pytorch pretrained](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+
+[pytorch with custom activation functions](https://towardsdatascience.com/extending-pytorch-with-custom-activation-functions-2d8b065ef2fa)
