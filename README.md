@@ -129,3 +129,5 @@ In the second part of our project, we decide to test the baseline models on degr
 [pytorch with custom activation functions](https://towardsdatascience.com/extending-pytorch-with-custom-activation-functions-2d8b065ef2fa)
 
 [activation function with trainable parameters](https://morioh.com/p/deaf2f23fbc6)
+
+[.npy dataset](https://blog.csdn.net/a940902940902/article/details/82666824)
