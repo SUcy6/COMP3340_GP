@@ -131,3 +131,5 @@ In the second part of our project, we decide to test the baseline models on degr
 [activation function with trainable parameters](https://morioh.com/p/deaf2f23fbc6)
 
 [.npy dataset](https://blog.csdn.net/a940902940902/article/details/82666824)
+
+[利用pytorch的载入训练npy类型数据代码](https://blog.csdn.net/caihaihua0572/article/details/123597035?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-123597035-blog-108194489.pc_relevant_landingrelevant&spm=1001.2101.3001.4242.3&utm_relevant_index=7)
