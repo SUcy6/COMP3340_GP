@@ -54,6 +54,11 @@ flowers.csv: a helper csv file for distribute the images
 
 **For degraded images:**
 
+[CIFAR10-C](https://zenodo.org/record/2535967#.Y3SVDL1ByUk)
+
+In CIFAR-10-C, the first 10,000 images in each .npy are the test set images corrupted at severity 1,
+and the last 10,000 images are the test set images corrupted at severity five. labels.npy is the label file for all other image files.
+
 Tensorflow dataset [cifar10_corrupted](https://www.tensorflow.org/datasets/catalog/cifar10_corrupted)
 
 ## 📌Experiment Result
