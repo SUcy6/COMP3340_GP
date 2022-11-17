@@ -27,6 +27,8 @@ update:
 - [DeepDenoising](https://github.com/Ding-Liu/DeepDenoising) have errors
 - TENET still not working
 - Try rewrite low pass activation layer to python and test [LP-ReLU](https://github.com/tahmid0007/Low_Pass_ReLU), and analyse the influence of activation function on CNNs
+- [Evaluate on CIFAR10-C](https://github.com/tanimutomo/cifar10-c-eval)
+- [CIFAR10-CNN](https://github.com/GeekAlexis/cifar10-cnn/blob/master/CIFAR_10_CNN.ipynb)
 
 **Final report**:
 
