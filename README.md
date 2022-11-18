@@ -1,4 +1,4 @@
-# COMP3340_Group16_GP 🏆
+# COMP3340_Group15_GP 🏆
 
 ### **Connecting low-level image processing and high-level vision for degraded image classification**
 
