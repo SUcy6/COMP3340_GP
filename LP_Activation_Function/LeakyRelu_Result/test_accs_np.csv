@@ -1,0 +1,16 @@
+,0
+gaussian_noise,0.649
+shot_noise,0.6519
+impulse_noise,0.6048
+defocus_blur,0.5982
+glass_blur,0.6041
+motion_blur,0.5528
+zoom_blur,0.574
+snow,0.5342
+frost,0.5112
+fog,0.2766
+brightness,0.5476
+contrast,0.205
+elastic_transform,0.618
+pixelate,0.6467
+jpeg_compression,0.6612
