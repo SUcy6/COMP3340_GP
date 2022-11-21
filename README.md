@@ -30,6 +30,8 @@ update:
 - [Evaluate on CIFAR10-C](https://github.com/tanimutomo/cifar10-c-eval)
 - [CIFAR10-CNN](https://github.com/GeekAlexis/cifar10-cnn/blob/master/CIFAR_10_CNN.ipynb)
 
+![WechatIMG1236.jpeg](media/WechatIMG1236.jpeg)
+
 **Final report**:
 
 For results on CIFAR10-Corruption, see [here](https://github.com/SUcy6/COMP3340_GP/tree/main/Cifar10c_result)
@@ -72,7 +74,7 @@ We output the training loss, validation loss, and test accuracy to csv file. Fro
 
 All the output csv can be found [here](https://github.com/SUcy6/COMP3340_GP/tree/main/output).
 
-![result.png](media/result.png)
+
 
 ## 🏠Model Architecture
 
@@ -121,10 +123,10 @@ In the second part of our project, we decide to test the baseline models on degr
 
 ## 📝Final Plan
 
-- [ ] Confirm that baseline CNNs fail when using degraded images (e.g. noise, blur)
-- [ ] training a model that combine low level and high level tasks (DeepDenosing or GroupWise)
-- [ ] Test and evaluate models(plot accuracy/loss, test result)
-- [ ] Presentation prepare (Intro, baseline models, limits of baseline, newly proposed model, results analysis)
+- [x] Confirm that baseline CNNs fail when using degraded images (e.g. noise, blur)
+- [x] training a model that combine low level and high level tasks (DeepDenosing or GroupWise)
+- [x] Test and evaluate models(plot accuracy/loss, test result)
+- [x] Presentation prepare (Intro, baseline models, limits of baseline, newly proposed model, results analysis)
 
 ## 🤡Tutorials
 
