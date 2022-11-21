@@ -32,6 +32,9 @@ update:
 
 **Final report**:
 
+For results on CIFAR10-Corruption, see [here](https://github.com/SUcy6/COMP3340_GP/tree/main/Cifar10c_result)
+
+
 ## 📊Datasets
 
 [17 Category Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/17/): a 17 category flower dataset with 80 images for each class
