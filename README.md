@@ -74,7 +74,7 @@ We output the training loss, validation loss, and test accuracy to csv file. Fro
 
 All the output csv can be found [here](https://github.com/SUcy6/COMP3340_GP/tree/main/output).
 
-
+For results on CIFAR10-Corruption, see [here](https://github.com/SUcy6/COMP3340_GP/tree/main/Cifar10c_result)
 
 ## 🏠Model Architecture
 
