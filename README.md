@@ -36,6 +36,8 @@ update:
 
 For results on CIFAR10-Corruption, see [here](https://github.com/SUcy6/COMP3340_GP/tree/main/Cifar10c_result)
 
+[Final Report](https://github.com/SUcy6/COMP3340_GP/tree/main/FinalPaperGroup15.pdf)
+
 
 ## 📊Datasets
 
