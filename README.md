@@ -2,6 +2,13 @@
 
 ### **Connecting low-level image processing and higher-level vision for degraded image classification**
 
+
+Convolutional Neural Networks has shown robustness in image classification tasks. However, commonly used testing datasets in image classification are clean and of high quality. Given that images of real-world scenarios contain corruptions, basic CNN models may lose their robustness. To solve this problem, low-level vision methods that focus on restoring images are a good try. First, we train and test basic CNNs abilities on both regular clean data and corrupted data. Second, we concatenate the filtering idea from low-level vision to the basic CNN models for improving low-quality image classification performance. The experiment results show that improved CNNs with filtering activation function can achieve better results in low-quality image classification than the original CNNs.
+
+See the full [report](https://github.com/SUcy6/COMP3340_GP/blob/main/FinalPaperGroup15.pdf) for more info
+
+<hr/>
+
 ### 📋Progress:
 
 **Project Proposal** on Sep 16: [proposal](https://github.com/SUcy6/COMP3340_GP/blob/main/COMP3340_Group%2016_Proposal.pdf)
@@ -22,15 +29,11 @@ Results on degraded imageset CIFAR100-C are [here](https://github.com/SUcy6/COMP
                                
 3. (before Nov 21) slides - 5 pages (Intro, baseline models, limits of baseline, newly proposed model, results analysis)
 
-update: 
+Try rewrite low pass activation layer to python and test [LP-ReLU](https://github.com/tahmid0007/Low_Pass_ReLU), and analyse the influence of activation function on CNNs
 
-- [DeepDenoising](https://github.com/Ding-Liu/DeepDenoising) have errors
-- TENET still not working
-- Try rewrite low pass activation layer to python and test [LP-ReLU](https://github.com/tahmid0007/Low_Pass_ReLU), and analyse the influence of activation function on CNNs
-- [Evaluate on CIFAR10-C](https://github.com/tanimutomo/cifar10-c-eval)
-- [CIFAR10-CNN](https://github.com/GeekAlexis/cifar10-cnn/blob/master/CIFAR_10_CNN.ipynb)
+[Evaluate on CIFAR10-C](https://github.com/tanimutomo/cifar10-c-eval)
 
-![WechatIMG1236.jpeg](media/WechatIMG1236.jpeg)
+[CIFAR10-CNN](https://github.com/GeekAlexis/cifar10-cnn/blob/master/CIFAR_10_CNN.ipynb)
 
 **Final report**:
 
